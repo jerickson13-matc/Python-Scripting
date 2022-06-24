@@ -1,0 +1,5 @@
+commit cc91be88b46aec5f79df2cb98a14565f037d1227
+Author: Jack Erickson <jerickson13@madisoncollege.edu>
+Date:   Fri Jun 24 12:15:56 2022 -0500
+
+    Initial commit of GitHub exercise
