@@ -1,5 +1,0 @@
-gitlogafter.txt
-gitlogbefore.txt
-gitreset.txt
-ls.txt
-README.md
